@@ -12,8 +12,8 @@ As an avid reader, you can now enhance your reading experience with our Book Sea
 
 ## License
 <!-- Add license badge and explanation here -->
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http://opensource.org/licenses/MIT)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+          
 ## Tests
 <!-- Add test instructions here -->
 N/A
